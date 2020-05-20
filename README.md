@@ -13,5 +13,5 @@
 ...
 ...
 
-آخر موعد لرفع الكود  `git commit` 
+آخر موعد لرفع الكود  `git commit` git push? 
 dd/mm/yyyy
